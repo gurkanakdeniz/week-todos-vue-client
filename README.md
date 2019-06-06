@@ -1,6 +1,6 @@
 # Week Todos
 
-This project was developed with vue to manage the list of common weekly to-do. websocket was used for communication. It was developed as a simple example for Socket and vue. you can make it look more beautiful or you can help to add drag and drop features(or another).
+This project was developed with vue to manage the list of common weekly to-do. Websocket was used for communication. It was developed as a simple example for Socket and Vue. you can make it look more beautiful or you can help to add drag and drop features(or another).
 
 **backend** : https://github.com/gurkanakdeniz/week-todos-nodejs-backend
 
